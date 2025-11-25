@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Will You Be My Girlfriend of 1 Year on November 25th, 2025?🥺💝🙏🌹", // The big question!
+            text: "Will You Be My Girlfriend of 1 Year on November 25th, 2025?🥺💝🙏🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "HEHEHEHEHE YAYAYAYAYAYAY I LOVE YOU THAT MUCH TOO MAMA?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "HEHEHEHEHE YAYAYAYAYAYAY I LOVE YOU THAT MUCH TOO MAMA?? 🥰😁❤️💝",  // Shows when they go past 5000%
         high: "AWWWWWW TETU MAMAAAAAA HEHEHE😘😚🥰",              // Shows when they go past 1000%
         normal: "Why not more😔☹️😖"                           // Shows when they go past 100%
     },

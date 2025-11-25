@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will You Be My Girlfriend of 1 Year on November 25th, 2025?🥺💝🙏🌹", // The big question!
+            text: "Will You Be My Girlfriend of 1 Year Today on November 25th, 2025?🥺💝🙏🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAYAYAY! I'm the luckiest person in the world because mama loves me! 🎉❤️💝💓🥰🥹",
-        message: "I can't wait til I'm back and give you your real gifty!",
+        message: "I can't believe it was a year ago today when we were on the roof and it became official, and I can't wait til I'm back and give you your real giftyyyyy!",
         emojis: "🎁💝💋❤️💕🦭🫘"  // These will bounce around
     },
 
